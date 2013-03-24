@@ -1,0 +1,44 @@
+* {
+ font-family: Arial monospace;
+}
+a {
+ color: gray;
+ text-decoration:none;
+}
+
+h1 {
+  width: 60%;
+  text-align: center;
+  margin-left: 20%;
+  border: 6px white solid;
+}
+p {
+  padding:3px;
+  font-size: 120%;
+}
+.content {
+  position: fixed;
+  margin-left: 20%;
+  margin-right: 30%;
+  width:60%;
+  height: auto;
+}
+.lateral{
+ width:20%;
+ position: fixed;
+ padding-top:10px;
+}
+.right {
+  right: 0;
+}
+.left {
+  left: 0;
+}
+.image{
+  width:auto;
+  height:auto;
+}
+body {
+ background-color: black;
+ color: white;
+}
