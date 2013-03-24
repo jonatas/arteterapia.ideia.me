@@ -1,0 +1,6 @@
+[submodule "5201725"]
+	path = 5201725
+	url = https://gist.github.com/5201725.git
+[submodule "_posts"]
+	path = _posts
+	url = https://gist.github.com/5201725.git

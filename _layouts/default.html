@@ -12,10 +12,15 @@
      <h1>{{page.title}}</h1>
    </div>
    <div class="layout">
-       <img src="images/lado-1.png" class="lateral left"/>
-       <img src="images/lado-2.png"class="lateral right" />
+     <img src="images/lado-1.png" class="lateral left"/>
+     <img src="images/lado-2.png"class="lateral right" />
      <div class="content">
        {{ content }}
+{% if page.main == true %}
+  {% for post in site.posts %}
+    <a class="post" href="{{ post.url }}">{{ post.title }}</a>
+  {% endfor %}
+{% endif %}
      </div>
    </body>
    <script type="text/javascript">

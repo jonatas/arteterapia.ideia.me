@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Flu.ideia.me
-categories: main
+main: true
 ---
 
 A ideia deste trabalho foi reunir fragmentos de uma resenha crítica [escrita] sobre a interação do homem com o computador e os diversos tipos de reações causadas pela intensidade do computador na vida das pessoas.
