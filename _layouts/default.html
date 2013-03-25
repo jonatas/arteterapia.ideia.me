@@ -12,15 +12,23 @@
      <h1>{{page.title}}</h1>
    </div>
    <div class="layout">
-     <img src="images/lado-1.png" class="lateral left"/>
-     <img src="images/lado-2.png"class="lateral right" />
+     <img src="/images/lado-1.png" class="lateral left"/>
+     <img src="/images/lado-2.png"class="lateral right" />
      <div class="content">
+       {% if page.main == true %}
+       {% else %}
+         <img src="/images/{{page.image}}" class="main"/>
+       {% endif %}
        {{ content }}
-{% if page.main == true %}
-  {% for post in site.posts %}
-    <a class="post" href="{{ post.url }}">{{ post.title }}</a>
-  {% endfor %}
-{% endif %}
+       {% if page.main == true %}
+
+       {% else %}
+         {% if page.next %}
+          <a href="/{{page.next}}.html" title="Próximo capítulo" ><img alt="Próximo capítulo" src="/images/next_chapter.png" class="next"/></a>
+         {% else %}
+          <a href="/intro.html" title="Voltar para o início" ><img alt="Próximo capítulo" src="/images/next_chapter.png" class="up"/></a>
+         {% endif %}
+       {% endif %}
      </div>
    </body>
    <script type="text/javascript">

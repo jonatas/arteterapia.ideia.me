@@ -7,21 +7,28 @@ a {
 }
 
 h1, h2, h3 {
-  width: 60%;
+  width: 80%;
   text-align: center;
-  margin-left: 20%;
-  border: 6px white solid;
+  margin-left: 10%;
+  border: 6px gray solid;
 }
 p {
   padding:3px;
   font-size: 120%;
 }
-p > img {
+img.main {
   width:100%;
 }
-p.next > a > img {
+img.next {
   margin-left: 25%;
   width: 50%;
+}
+img.up {
+  margin-left: 25%;
+  width: 40%;
+  margin-top: 10%;
+  -webkit-transform: rotate(-90deg);
+  -moz-transform: rotate(-90deg);
 }
 .content {
   margin-left: 20%;
@@ -30,8 +37,9 @@ p.next > a > img {
   height: auto;
 }
 pre {
-  width: auto;
+  width: 100%;
   height: auto;
+  white-space:pre-wrap;
 }
 .lateral{
  width:20%;
