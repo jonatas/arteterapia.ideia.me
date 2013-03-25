@@ -11,6 +11,6 @@ Conforme as pessoas foram se tornando íntimas com a internet e com a entrada da
 
 Com a chegada das novas redes, novos protocolos foram criados, passando por TDMA, GPRS, 2G, 3G  e agora está chegando a tecnologia 4G oferecendo literalmente banda larga para rede móvel. Com tanto poder e acessibilidade se tornou simples de continuar presente na rede até mesmo quando se está viajando. Um exemplo clássico é a inclusão de distribuídores de internet WIFI em ônibus, que muito colabora para tornar a viagem longa mais "produtiva".
 
->{.next}[![Continuar lendo](/images/letra-03.png)](/conectividade.html)
+>{.next}[![Continuar lendo](/images/letra-03.png)](/coletividade.html)
 
 [letra-c]: /images/letra-05.png
