@@ -1,0 +1,25 @@
+.blue{
+  color: rgb(64,149,204);
+}
+.yellow{
+  color: rgb(250,231,59);
+}
+.orange {
+  color: rgb(246, 168, 37);
+}
+.green {
+  color: rgb(87,192,74);
+}
+.red{
+  background: rgb(214,0,54);
+  color: white;
+}
+body {
+ background-color: papayawhip;
+ color: darkslategray;
+}
+pre {
+  width: 100%;
+  height: auto;
+  white-space:pre-wrap;
+}

@@ -1,8 +1,9 @@
 ---
-  layout: default
-  title: a condição do homem perante a tecnologia
+  layout: clean
+  title: A condição do homem perante a tecnologia
 ---
 
+# {{ page.title }}
 Desde que o homem criou os primeiros aparatos tecnológicos, sempre teve muitos fãs e hoje é um das áreas mais atraentes do consumismo.
 
 Com obsolecência programada e muitas novidades, cada melhoria tecnologica traz consigo uma série de novos recursos, interfaces interativas e melhorias "imperdíveis".
@@ -105,7 +106,6 @@ A admiracão virtual se tornou uma ferramenta incrível de tornar as pessoas ain
 Da mesma forma quem recompartilha algo, tem o sentimento de sentir-se inspirado ou em gesto de concordância com o mesmo. Reafirma a alimenta a pessoa que criou a ideia, aumenta sua visibilidade e aumenta o potencial deste objeto ser tendencioso para outras pessoas.
 
 A maioria das pessoas ainda não entendeu o quanto isto tem sido prejudicial ao meio. Enquanto admiradores, gananciosos por mais e mais ideias para "seguir". Enquanto admirados, tendenciosos por alimentar e encontrar mais adeptos às suas ideias.
-
 
 [internet-activismo]: http://en.wikipedia.org/wiki/Internet_activism
 [facebook-effects-on-kids]: http://www.sciencedaily.com/releases/2011/08/110806203538.htm

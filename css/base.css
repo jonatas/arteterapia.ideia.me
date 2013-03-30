@@ -19,6 +19,9 @@ p {
 img.main {
   width:100%;
 }
+img.intro{
+  width: 100%;
+}
 img.next {
   margin-left: 25%;
   width: 50%;
@@ -59,4 +62,11 @@ pre {
 body {
  background-color: black;
  color: white;
+}
+.small {
+ width: 10%;
+ position: absolute;
+ top: 0;
+ left: 0;
+ float:left;
 }
