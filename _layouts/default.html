@@ -7,9 +7,10 @@
   <link href="/css/base.css" type="text/css" rel="stylesheet" />
  </head>
  <body>
-   <div class="links" id="header">
-     <h1>{{page.title}}</h1>
-   </div>
+   {% if page.main != true %}
+    <a href="/"><img src="/images/intro.png" class="small"/></a>
+   {% endif %}
+   <h1>{{page.title}}</h1>
    <div class="layout">
      <img src="/images/lado-1.png" class="lateral left"/>
      <img src="/images/lado-2.png"class="lateral right" />
