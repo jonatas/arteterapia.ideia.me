@@ -1,8 +1,10 @@
-# Aguialinha
+---
+  title: Aguialinha
+  author: Jônatas Davi Paganini
+  layout: clean
+---
 
-Autor: *Jônatas Davi Paganini*
-
-Análise crítica ao texto: Parábola da águia de *James Aggreyr*.
+Análise crítica ao texto: [Parábola da águia de **James Aggreyr**][parabola_link].
 
 ## A sociedade das galinhas
 
@@ -94,4 +96,4 @@ Enquanto a águia resgatada ainda quando jovem, criada com outras aves de menor 
 * \[1\] : Dicionário de símbolos. CHEVALIER, Jean; GHEERBRANT Alain
 * \[2\] : O homem e seus símbolos, JUNG, Carl G.
 * \[3\] : Parábola dos talentos: http://pt.wikipedia.org/wiki/Par%C3%A1bola_dos_Talentos
-
+[parabola_link]: http://www.meu.cantinho.nom.br/mensagens/a_aguia.asp

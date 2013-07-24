@@ -5,33 +5,9 @@ a {
  color: gray;
  text-decoration:none;
 }
-
-h1, h2, h3 {
-  width: 80%;
-  text-align: center;
-  margin-left: 10%;
-  border: 6px gray solid;
-}
 p {
   padding:3px;
   font-size: 120%;
-}
-img.main {
-  width:100%;
-}
-img.intro{
-  width: 100%;
-}
-img.next {
-  margin-left: 25%;
-  width: 50%;
-}
-img.up {
-  margin-left: 25%;
-  width: 40%;
-  margin-top: 10%;
-  -webkit-transform: rotate(-90deg);
-  -moz-transform: rotate(-90deg);
 }
 .content {
   margin-left: 20%;

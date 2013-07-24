@@ -18,8 +18,22 @@ body {
  background-color: papayawhip;
  color: darkslategray;
 }
+
+.content {
+  padding-top: 40px;
+}
 pre {
   width: 100%;
   height: auto;
   white-space:pre-wrap;
+}
+i.author {
+  position:absolute;
+  right: 10;
+}
+a {
+  text-decoration: none;
+}
+a, i.author {
+  color: rgb(64,149,204);
 }

@@ -10,12 +10,14 @@ Sinta-se livre para enviar seu feedback diretamente para mim: "Jônatas Davi Pag
 
 O conteúdo e estrutura do site não limitam-se apenas aos ingressos no curso, quem quiser contribuir o [código fonte e conteúdo está aqui][fonte].
 
+### por _Jônatas Davi Paganini_
 
+* [A condição do homem perante a tecnologia][jonatas1]
+* [Aguialinha][aguialinha]
+* [O que é Arteterapia?][arteterapia]
 
-
-* [A condição do homem perante a tecnologia][jonatas1] - _Jônatas Davi Paganini_
-* [Aguialinha][aguialinha] - _Jônatas Davi Paganini_
 
 [fonte]: http://github.com/jonatas/arteterapia.ideia.me
 [jonatas1]: /jonatas/1/intro.html
 [aguialinha]: /jonatas/aguialinha.html
+[arteterapia]: /jonatas/arteterapia.html
