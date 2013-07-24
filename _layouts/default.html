@@ -7,29 +7,15 @@
   <link href="/css/base.css" type="text/css" rel="stylesheet" />
  </head>
  <body>
-   {% if page.main != true %}
-    <a href="/"><img src="/images/intro.png" class="small"/></a>
-   {% endif %}
    <h1>{{page.title}}</h1>
    <div class="layout">
      <img src="/images/lado-1.png" class="lateral left"/>
      <img src="/images/lado-2.png"class="lateral right" />
      <div class="content">
-       {% if page.main == true %}
-         <img src="/images/intro.png" class="main"/>
-       {% else %}
+       {% if page.image %}
          <img src="/images/{{page.image}}" class="main"/>
        {% endif %}
        {{ content }}
-       {% if page.main == true %}
-          <a href="/intro.html" title="Iniciar leitura" ><img alt="Iniciar leitura" src="/images/next_chapter.png" class="next"/></a>
-       {% else %}
-         {% if page.next %}
-          <a href="/{{page.next}}.html" title="Próximo capítulo" ><img alt="Próximo capítulo" src="/images/next_chapter.png" class="next"/></a>
-         {% else %}
-          <a href="/intro.html" title="Voltar para o início" ><img alt="Próximo capítulo" src="/images/next_chapter.png" class="up"/></a>
-         {% endif %}
-       {% endif %}
      </div>
    </body>
    <script type="text/javascript">

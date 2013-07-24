@@ -1,20 +1,21 @@
 ---
   layout: default
-  title: flu.ideia.me
+  title: Arteterapia
   main: true
 ---
 
-A ideia deste trabalho foi reunir fragmentos de uma [resenha crítica][escrita] sobre a interação do homem com o computador e os diversos tipos de reações causadas pela intensidade do computador na vida das pessoas.
+Este site reúne uma série de materiais desenvolvido por mim e meus amigos da  pós graduação de Arteterapia na UNOESC em São Miguel do Oeste SC no ano de 2012-2013.
 
-Como desenvolvedor de software, as minhas ideias expostas aqui são voltadas a multi função do computador. Passo inúmeras horas trabalhando, estudando e me divertindo na mesma máquina.
+Sinta-se livre para enviar seu feedback diretamente para mim: "Jônatas Davi Paganini"<jonatasdp@gmail.com>.
 
-Como uma máquina com sistemas virtuais tão simples tem tomado um espaço que antes era culturalmente preenchido por pessoas e coisas reais.
+O conteúdo e estrutura do site não limitam-se apenas aos ingressos no curso, quem quiser contribuir o [código fonte e conteúdo está aqui][fonte].
 
-A proposta é fruto de uma preocupação mediante a super dependência do homem com o computador e as diversas reações. Os textos são de minha própria autoria mas fui muito inspirado por [farmerandfarmer.org][farmerandfarmer] e eu recomendo! As referências podem ser encontradas diretamente nos links. Sinta-se livre para [contribuir com ideias][escrita] e melhorar este [site].
 
-Se você quiser ler o texto puro sem imagens e capítulos, pode encontrá-lo [aqui][resenha-critica].
 
-[escrita]: http://gist.github.com/jonatas/5201725
-[site]: http://github.com/jonatas/flu.ideia.me
-[farmerandfarmer]: http://farmerandfarmer.org
-[resenha-critica]: /resenha_critica.html
+
+* [A condição do homem perante a tecnologia][jonatas1] - _Jônatas Davi Paganini_
+* [Aguialinha][aguialinha] - _Jônatas Davi Paganini_
+
+[fonte]: http://github.com/jonatas/arteterapia.ideia.me
+[jonatas1]: /jonatas/1/intro.html
+[aguialinha]: /jonatas/aguialinha.html
