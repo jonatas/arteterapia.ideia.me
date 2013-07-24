@@ -1,0 +1,46 @@
+<html>
+ <head>
+  <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="chrome=1">
+  <title>{{ page.title }}</title>
+  <meta name="viewport" content="user-scalable=no, width=device-width" />
+  <link href="/css/base.css" type="text/css" rel="stylesheet" />
+ </head>
+ <body>
+   {% if page.main != true %}
+    <a href="/"><img src="/images/intro.png" class="small"/></a>
+   {% endif %}
+   <h1>{{page.title}}</h1>
+   <div class="layout">
+     <img src="/images/lado-1.png" class="lateral left"/>
+     <img src="/images/lado-2.png"class="lateral right" />
+     <div class="content">
+       {% if page.main == true %}
+         <img src="/images/intro.png" class="main"/>
+       {% else %}
+         <img src="/images/{{page.image}}" class="main"/>
+       {% endif %}
+       {{ content }}
+       {% if page.main == true %}
+          <a href="/jonatas/1/intro.html" title="Iniciar leitura" ><img alt="Iniciar leitura" src="/images/next_chapter.png" class="next"/></a>
+       {% else %}
+         {% if page.next %}
+          <a href="/jonatas/1/{{page.next}}.html" title="Próximo capítulo" ><img alt="Próximo capítulo" src="/images/next_chapter.png" class="next"/></a>
+         {% else %}
+          <a href="/jonatas/1/intro.html" title="Voltar para o início" ><img alt="Próximo capítulo" src="/images/next_chapter.png" class="up"/></a>
+         {% endif %}
+       {% endif %}
+     </div>
+   </body>
+   <script type="text/javascript">
+     var _gaq = _gaq || [];
+     _gaq.push(['_setAccount', 'UA-39559245-1']);
+     _gaq.push(['_trackPageview']);
+
+     (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+</script>
+</html>
