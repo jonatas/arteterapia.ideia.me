@@ -1,1 +1,13 @@
-git push deploy master to rebuild the site on the master
+Materiais desenvolvidos durante a minha pós graduação. O conteúdo está aí aberto para quem tiver interesse. Sinta-se livre para contribuir!
+
+Os materiais possuem um breve título no [index.markdown](/index.markdown).
+
+Para contribuir crie uma pasta com seu nome. Adicione os links no [index.markdown](/index.markdown) e sinta-se livre para criar um layout novo em _layouts. 
+
+
+    A ideia de criar este projeto foi tirar tantas coisas que tinha guardado em meus arquivos e enviado apenas para o professor, mas quem sabe pode ser uma luz para alguém que esteja estudando ou organizando seus pensamentos.
+  
+Os conteúdos escritos não são muito voltados para anotações da aula mas para os trabalhos desenvolvidos em casa.
+    
+Iniciativa de Jônatas Davi Paanini.
+
