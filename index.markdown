@@ -5,7 +5,7 @@
   main: true
 ---
 
-Este site reúne uma série de materiais desenvolvido por mim e meus amigos da  pós graduação de Arteterapia na UNOESC em São Miguel do Oeste SC no ano de 2012-2013.
+Este site reúne uma série de materiais desenvolvido por mim e meus amigos da  pós graduação de "Arteterapia, Educação e Saúde" na UNOESC em São Miguel do Oeste SC no ano de 2012-2013.
 
 Sinta-se livre para enviar seu feedback diretamente para mim em <jonatasdp@gmail.com>.
 
