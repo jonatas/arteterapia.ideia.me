@@ -21,7 +21,11 @@ Os textos são livres e a maioria das propostas também. Sinta-se livre para con
 * [O que é Arteterapia?](/jonatas/arteterapia.html "O que é arteterapia? Pesquisa e estudo proposto pela professora Graciela Ormezzano na matéria de arteterapia")
 * [Pensamento sobre workaholismo](/jonatas/workaholismo.html "Pesquisa e estudo sobre área que pretende fazer o trabalho de conclusão de curso proposto pela professora Graciela Ormezzano") 
 * [Introdução a linguagem Bliss Symbols](/jonatas/intro_bliss.html "Aprenda um pouco da linguagem bliss foi minha sugestão de trabalho para a  matéria de Psicosomática e abordagem junguiana que inicialmente foi ministrado pela professora Hericka Zogbi Jorge Dias")
-* [Aguialinha](/jonatas/aguialinha.html "Reflexão crítica sobre o texto a águia e a galinha proposto pelo professor Carlos Veit na matéria de Psicosomática e abordagem junguiana" )
+* [Aguialinha](/jonatas/aguialinha.html "Reflexão crítica sobre o texto a águia e a galinha proposto pelo professor Carlos Alberto Veit na matéria de Psicosomática e abordagem junguiana" )
+
+### por _Eliége Jachini_
+
+* [Resenha Parábola da Águia ](/eliege/resenha_aguia.html "sobre o texto a águia e a galinha proposto pelo professor Carlos Alberto Veit na matéria de Psicosomática e abordagem junguiana"  )
 
 ### por _Jônatas Davi Paganini_ e _Dímitri Abdalla
 
