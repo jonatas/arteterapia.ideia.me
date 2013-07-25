@@ -14,11 +14,11 @@ O conteúdo e estrutura do site não limitam-se apenas aos ingressos no curso, q
 ### por _Jônatas Davi Paganini_
 
 * [A condição do homem perante a tecnologia](/jonatas/1/intro.html "Texto crítico classificação livre da professora Maria Goretti para matéria de Introdução a psicologia")
-* [Aguialinha](/jonatas/aguialinha.html "Reflexão crítica sobre o texto a águia e a galinha proposto pelo professor Carlos Veit na matéria de Psicosomática e abordagem junguiana" )
 * [O que é Arteterapia?](/jonatas/arteterapia.html "O que é arteterapia? Pesquisa e estudo proposto pela professora Graciela Ormezzano na matéria de arteterapia")
 * [Pensamento sobre workaholismo](/jonatas/workaholismo.html "Pesquisa e estudo sobre área que pretende fazer o trabalho de conclusão de curso proposto pela professora Graciela Ormezzano") 
 * [A linguagem Bliss como ferramenta de expressão](/jonatas_e_dimitri/bliss.html "A linguagem bliss foi uma proposta pedagógica para matéria de Educação especial ministrada pela professora Geovana Lunardi")
-
+* [Introdução a linguagem Bliss Symbols](/jonatas/intro_bliss.html "Aprenda um pouco da linguagem bliss foi minha sugestão de trabalho para a  matéria de Psicosomática e abordagem junguiana que inicialmente foi ministrado pela professora Hericka Zogbi Jorge Dias")
+* [Aguialinha](/jonatas/aguialinha.html "Reflexão crítica sobre o texto a águia e a galinha proposto pelo professor Carlos Veit na matéria de Psicosomática e abordagem junguiana" )
 
 [fonte]: http://github.com/jonatas/arteterapia.ideia.me
 
