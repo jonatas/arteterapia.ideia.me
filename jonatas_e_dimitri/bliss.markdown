@@ -23,4 +23,6 @@ _por Jônatas:_
 
 Neste trabalho foi desenvolvido o primeiro protótipo do website [http://bliss.ideia.me](http://bliss.ideia.me "Aprenda mais sobre os símbolos bliss aqui") que continua crescendo e evoluindo. Já existem até contribuições em sueco. O site permite adicionar conteúdos e jogos de perguntas e respostas interativos enquanto aprendendo a própria linguagem bliss.
 
+Veja também a minha primeira [introdução ao bliss](/jonatas/bliss_intro.html).
+
 
