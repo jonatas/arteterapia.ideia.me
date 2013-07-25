@@ -14,59 +14,18 @@ h3 {
   margin-top: 1em;
 }
 body {
-  background: rgba(61, 255, 233, 0.32);
-  color: gray;
+  font-size: 120%;
 }
 p {
   text-indent: 1em;
-}
-h1 {
-  color: rgba(123, 158, 109, 0.7);
-}
-h3 {
-  color: rgba(123, 158, 209, 0.9);
-}
-h3 > em {
-  color: rgb(143, 198, 209);
-}
-a {
-  color: rgb(112, 178, 229);
-  text-decoration:none;
-}
-p {
   padding:3px;
-  font-size: 120%;
-}
-.content {
-  margin-left: 20%;
-  margin-right: 30%;
-  width:60%;
-  height: auto;
 }
 pre {
   width: 100%;
   height: auto;
   white-space:pre-wrap;
 }
-.lateral{
-  width:20%;
-  position: fixed;
-  padding-top:10px;
-}
-.right {
-  right: 0;
-}
-.left {
-  left: 0;
-}
-.image{
+img {
   width:auto;
   height:auto;
-}
-.small {
-  width: 10%;
-  position: absolute;
-  top: 0;
-  left: 0;
-  float:left;
 }

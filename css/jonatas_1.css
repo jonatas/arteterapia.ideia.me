@@ -25,3 +25,31 @@ img.up {
   -webkit-transform: rotate(-90deg);
   -moz-transform: rotate(-90deg);
 }
+.lateral{
+  width:20%;
+  position: fixed;
+  padding-top:10px;
+}
+.right {
+  right: 0;
+}
+.left {
+ left: 0;
+}
+.image{
+  width:auto;
+  height:auto;
+}
+.small {
+  width: 10%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  float:left;
+}
+.content {
+ margin-left: 20%;
+ margin-right: 30%;
+ width:60%;
+ height: auto;
+}
