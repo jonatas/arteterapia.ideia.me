@@ -1,4 +1,7 @@
-
+body {
+  background-color: black;
+  color: white;
+}
 h1, h2, h3 {
   width: 80%;
   text-align: center;

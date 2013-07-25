@@ -1,9 +1,37 @@
+h1 {
+  margin-top: 3em;
+  margin-bottom: 1em;
+  text-align: center;
+}
+h2 {
+  margin-bottom: 1em;
+}
+h2 {
+  margin-top: 3em;
+  text-align: left;
+}
+h3 {
+  margin-top: 1em;
+}
 body {
- font-family: Arial monospace;
+  background: rgba(61, 255, 233, 0.32);
+  color: gray;
+}
+p {
+  text-indent: 1em;
+}
+h1 {
+  color: rgba(123, 158, 109, 0.7);
+}
+h3 {
+  color: rgba(123, 158, 209, 0.9);
+}
+h3 > em {
+  color: rgb(143, 198, 209);
 }
 a {
- color: gray;
- text-decoration:none;
+  color: rgb(112, 178, 229);
+  text-decoration:none;
 }
 p {
   padding:3px;
@@ -21,9 +49,9 @@ pre {
   white-space:pre-wrap;
 }
 .lateral{
- width:20%;
- position: fixed;
- padding-top:10px;
+  width:20%;
+  position: fixed;
+  padding-top:10px;
 }
 .right {
   right: 0;
@@ -35,14 +63,10 @@ pre {
   width:auto;
   height:auto;
 }
-body {
- background-color: black;
- color: white;
-}
 .small {
- width: 10%;
- position: absolute;
- top: 0;
- left: 0;
- float:left;
+  width: 10%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  float:left;
 }

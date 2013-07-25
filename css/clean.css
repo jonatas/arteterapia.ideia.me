@@ -16,6 +16,8 @@
 }
 body {
  background-color: papayawhip;
+ font-size: 120%;
+ font-family: Serif;
  color: darkslategray;
 }
 
@@ -36,4 +38,23 @@ a {
 }
 a, i.author {
   color: rgb(64,149,204);
+}
+h1 {
+  margin-top: 3em;
+  margin-bottom: 1em;
+  text-align: center;
+}
+h2 {
+  margin-bottom: 1em;
+}
+h2 {
+  margin-top: 3em;
+  text-align: left;
+}
+h3 {
+  margin-top: 1em;
+}
+p {
+  text-indent: 1em;
+  padding:3px;
 }
