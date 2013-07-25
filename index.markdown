@@ -25,7 +25,10 @@ Os textos são livres e a maioria das propostas também. Sinta-se livre para con
 
 ### por _Eliége Jachini_
 
-* [Resenha Parábola da Águia ](/eliege/resenha_aguia.html "sobre o texto a águia e a galinha proposto pelo professor Carlos Alberto Veit na matéria de Psicosomática e abordagem junguiana"  )
+* [Resenha sobre a Parábola da Águia ](/eliege/resenha_aguia.html "sobre o texto a águia e a galinha proposto pelo professor Carlos Alberto Veit na matéria de Psicosomática e abordagem junguiana"  )
+* [A Evolução do Ego](/eliege/evolucao_do_ego.html "Texto crítico com classificação livre proposto pela professora Maria Goretti na matéria de introdução a psicologia")
+* [Experiências de Inclusão das Oficinas de Arte](eliege/experiencias_sobre_oficinas_de_arte.html "Pesquisa sobre oficina de artes proposto pela professora Geovana Lunardi")
+ 
 
 ### por _Jônatas Davi Paganini_ e _Dímitri Abdalla
 
