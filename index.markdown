@@ -15,9 +15,11 @@ O conteúdo e estrutura do site não limitam-se apenas aos ingressos no curso, q
 * [A condição do homem perante a tecnologia][jonatas1]
 * [Aguialinha][aguialinha]
 * [O que é Arteterapia?][arteterapia]
+* [Pensamento sobre workaholismo][workaholismo]
 
 
 [fonte]: http://github.com/jonatas/arteterapia.ideia.me
 [jonatas1]: /jonatas/1/intro.html
 [aguialinha]: /jonatas/aguialinha.html
 [arteterapia]: /jonatas/arteterapia.html
+[workaholismo]: /jonatas/workaholismo.html
