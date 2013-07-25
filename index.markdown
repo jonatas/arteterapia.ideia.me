@@ -1,25 +1,24 @@
 ---
   layout: default
   title: Arteterapia
+  author: Jônatas Davi Paganini
   main: true
 ---
 
 Este site reúne uma série de materiais desenvolvido por mim e meus amigos da  pós graduação de Arteterapia na UNOESC em São Miguel do Oeste SC no ano de 2012-2013.
 
-Sinta-se livre para enviar seu feedback diretamente para mim: "Jônatas Davi Paganini"<jonatasdp@gmail.com>.
+Sinta-se livre para enviar seu feedback diretamente para mim em <jonatasdp@gmail.com>.
 
 O conteúdo e estrutura do site não limitam-se apenas aos ingressos no curso, quem quiser contribuir o [código fonte e conteúdo está aqui][fonte].
 
 ### por _Jônatas Davi Paganini_
 
-* [A condição do homem perante a tecnologia][jonatas1]
-* [Aguialinha][aguialinha]
-* [O que é Arteterapia?][arteterapia]
-* [Pensamento sobre workaholismo][workaholismo]
+* [A condição do homem perante a tecnologia](/jonatas/1/intro.html "Texto crítico classificação livre da professora Maria Goretti para matéria de Introdução a psicologia")
+* [Aguialinha](/jonatas/aguialinha.html "Reflexão crítica sobre o texto a águia e a galinha proposto pelo professor Carlos Veit na matéria de Psicosomática e abordagem junguiana" )
+* [O que é Arteterapia?](/jonatas/arteterapia.html "O que é arteterapia? Pesquisa e estudo proposto pela professora Graciela Ormezzano na matéria de arteterapia")
+* [Pensamento sobre workaholismo](/jonatas/workaholismo.html "Pesquisa e estudo sobre área que pretende fazer o trabalho de conclusão de curso proposto pela professora Graciela Ormezzano") 
+* [A linguagem Bliss como ferramenta de expressão](/jonatas_e_dimitri/bliss.html "A linguagem bliss foi uma proposta pedagógica para matéria de Educação especial ministrada pela professora Geovana Lunardi")
 
 
 [fonte]: http://github.com/jonatas/arteterapia.ideia.me
-[jonatas1]: /jonatas/1/intro.html
-[aguialinha]: /jonatas/aguialinha.html
-[arteterapia]: /jonatas/arteterapia.html
-[workaholismo]: /jonatas/workaholismo.html
+
