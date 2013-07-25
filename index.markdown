@@ -11,6 +11,10 @@ Sinta-se livre para enviar seu feedback diretamente para mim em <jonatasdp@gmail
 
 O conteúdo e estrutura do site não limitam-se apenas aos ingressos no curso, quem quiser contribuir o [código fonte e conteúdo está aqui][fonte].
 
+## Textos
+
+Os textos são livres e a maioria das propostas também. Sinta-se livre para contribuir.
+
 ### por _Jônatas Davi Paganini_
 
 * [A condição do homem perante a tecnologia](/jonatas/1/intro.html "Texto crítico classificação livre da professora Maria Goretti para matéria de Introdução a psicologia")
@@ -22,6 +26,10 @@ O conteúdo e estrutura do site não limitam-se apenas aos ingressos no curso, q
 ### por _Jônatas Davi Paganini_ e _Dímitri Abdalla
 
 * [A linguagem Bliss como ferramenta de expressão](/jonatas_e_dimitri/bliss.html "A linguagem bliss foi uma proposta pedagógica para matéria de Educação especial ministrada pela professora Geovana Lunardi")
+
+## Desenhos
+
+Os desenhos do meu caderno de anotações. [Acesse aqui](/jonatas/desenhos.html)
 
 [fonte]: http://github.com/jonatas/arteterapia.ideia.me
 
