@@ -1,8 +1,10 @@
 ---
   title: Resenha da Parábola da Águia 
   author: Eliége Jachini
-  layout: clean
+  layout: eliege 
 ---
+
+![](/eliege/desenho03.png)
 
 Quando nascemos, logo começamos a nos influenciar pelo ambiente em que vivemos, consciente ou inconscientemente. 
 
@@ -33,6 +35,8 @@ C. G. Jung nos fala no livro O Eu e o Inconsciente: ‘Ninguém pode, mediante s
      A cada hora mudo a forma do meu ser
      E assim exerço meu despótico poder’
 
+![](/eliege/desenho04.png)
+
 O equilíbrio deve ser a primeira etapa da verdadeira busca, o que vai facilitar a observação e o sentir em nós, nos abrindo para o desenvolvimento da consciência, onde possamos admitir nossas verdadeiras situações, agindo  principalmente com  humildade e sinceridade.
 
 É preciso compreender que somos uma unidade divina, que aos poucos vai crescendo, evoluindo e se desenvolvendo através de vários meios e estágios. E essa compreensão nos leva a ver nosso verdadeiro eu, a perceber nossas reais vontades, observar quem  realmente somos, independente do meio em  que vivemos.  Não importa se somos águias ou galinhas, mas temos que despertar para nosso verdadeiro ser.
@@ -50,4 +54,6 @@ O mundo material tem a capacidade de nos confundir. Muitos valores se inverteram
 Frankl ainda afirma que ‘Amor é a única maneira de captar outro ser no íntimo da sua personalidade. Ninguém consegue ter consciência plena da essência última de outro ser humano sem amá-lo’.
 
 O que precisamos, é despertar em nós esse amor, tentar senti-lo em sua totalidade.  Não é um  trabalho fácil, mas as  recompensas serão maiores que o esforço, e com o tempo, iremos despertando para a verdadeira essência  do nosso ser, que nos levará a novos caminhos e descobertas.
+
+![](/eliege/desenho05.png)
 

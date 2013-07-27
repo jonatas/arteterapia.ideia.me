@@ -1,8 +1,10 @@
 ---
   title: A Evolução do Ego
   author: Eliége Jachini
-  layout: clean
+  layout: eliege
 ---
+
+![](/eliege/desenho07.png)
 
 Nossa raça tem evoluído de forma muito pouco altruísta. Nossas necessidades básicas foram substituídas por exageros e disputas de ego e poder.
 
@@ -37,6 +39,9 @@ Com uma devida falsa, como podemos ser bem-aventurados? E esse ego cria muitos t
 Meyer nos leva a refletir, que sempre que estivermos Infelizmentelizes, devemos apenas fechar os olhos e não tentar encontrar alguma causa externa, mas perceber de onde está vindo esse sentimento, que normalmente vem do nosso próprio ego. E quando compreendermos isso, será o primeiro passo para o desaparecimento dele e o caminho para uma vida mais saudável.
 
 Somos autores do nosso destino, e contribuímos muito, por mais que muitas vezes não pareça, para um mundo melhor, pois somos uma peça desse imenso quebra-cabeça. É nosso dever investigar, duvidar, comprometer-se e acrescentar. Viver de acordo com as imposições dos outros é muito repressivo, e impede de expressarmos livremente nossos sentimentos, que nos dão a espontaneidade para vivermos quem realmente somos. Não deixemos o ego governar nossa alma.
+
+
+![](/eliege/desenho08.png)
 
 # Referências Bibliográficas
 

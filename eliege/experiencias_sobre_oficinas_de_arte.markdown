@@ -1,9 +1,10 @@
 ---
  title: Experiências de Inclusão das Oficinas de Arte
  author: Eliége Jachini
- layout: clean
+ layout: eliege
 ---
 
+![](/eliege/desenho01.png)
 
 Educação inclusiva é aceitar e compreender o outro na sua totalidade e diversidade, sabendo que cada indivíduo tem sua singularidade. 
 
@@ -34,6 +35,8 @@ As Oficinasficinas de arte e vivências de inclusão desempenham um papel muito 
 É preciso compreender que Artes deficiências englobam uma variedade de condições orgânicas e sensoriais que têm consequências diferentes no desemprenho dos sujeitos. A educadora Ivanê Dantas Coimbra nos fala:
 
     “Entretanto, sob a égide da padronização e por centrar o conhecimento no ver, em vez de no sentir e no perceber, a escola restringe ou inviabiliza a utilização da imaginação, da criatividade e de outros canais de percepção ou expressão (o tátil, o auditivo, o olfativo, o cinestésico), dentro do cotidiano da sala de aula, o que limita os caminhos para que aquele portador possa construir o seu conhecimento” (COIMBRA, 2003, p. 65).
+
+![](/eliege/desenho02.png)
 
 Uma discussão e abordagemgem multissensorial é capaz de responder a diversos desafios impostos pelos diversos tipos de deficiências. Correspondendo a um ensino pautado em todas as dimensões sensoriais do aluno, com um ensino que se preocupa em utilizar todos os sentidos, de forma agradável, reflexiva, generosa, lúdica, só vêm potencializar o aprendizado, e permitir a todos uma maior fixação dos conteúdos.
 
