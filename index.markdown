@@ -7,10 +7,6 @@
 
 Este site reúne uma série de materiais desenvolvido por mim e meus amigos da  pós graduação de "Arteterapia, Educação e Saúde" na UNOESC em São Miguel do Oeste SC no ano de 2012-2013.
 
-Sinta-se livre para enviar seu feedback diretamente para mim em <jonatasdp@gmail.com>.
-
-O conteúdo e estrutura do site não limitam-se apenas aos ingressos no curso, quem quiser contribuir o [código fonte e conteúdo está aqui][fonte].
-
 ## Textos
 
 Os textos são livres e a maioria das propostas também. Sinta-se livre para contribuir.
@@ -39,4 +35,8 @@ Os textos são livres e a maioria das propostas também. Sinta-se livre para con
 Os desenhos do meu caderno de anotações. [Acesse aqui](/jonatas/desenhos.html)
 
 [fonte]: http://github.com/jonatas/arteterapia.ideia.me
+
+Sinta-se livre para enviar seu feedback diretamente para mim em <jonatasdp@gmail.com>.
+
+O conteúdo e estrutura do site não limitam-se apenas aos ingressos no curso, quem quiser contribuir o [código fonte e conteúdo está aqui][fonte].
 
