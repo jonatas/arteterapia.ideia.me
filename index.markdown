@@ -27,7 +27,7 @@ Os textos são livres e a maioria das propostas também. Sinta-se livre para con
 * [Experiências de Inclusão das Oficinas de Arte](eliege/experiencias_sobre_oficinas_de_arte.html "Pesquisa sobre oficina de artes proposto pela professora Geovana Lunardi")
  
 
-### por _Jônatas Davi Paganini_ e _Dímitri Abdalla
+### por _Jônatas Davi Paganini_ e _Dímitri Abdalla__
 
 * [A linguagem Bliss como ferramenta de expressão](/jonatas_e_dimitri/bliss.html "A linguagem bliss foi uma proposta pedagógica para matéria de Educação especial ministrada pela professora Geovana Lunardi")
 
