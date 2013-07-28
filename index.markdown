@@ -38,9 +38,8 @@ Os desenhos do meu caderno de anotações. [Acesse aqui](/jonatas/desenhos.html)
 [fonte]: http://github.com/jonatas/arteterapia.ideia.me
 [eliege]: http://eliegejachini.blogspot.com.br/
 
-O desenho de background foi feito pela [Eliége Jachini][eliege]. Em breve colocaremos mais artes.
+O desenhos do site são da [Eliége Jachini][eliege] embora tenha colocado apenas o de background. As imagens de cada texto referem-se aos respectivos autores.
 
 Sinta-se livre para enviar seu feedback diretamente para mim em <jonatasdp@gmail.com>.
 
 O conteúdo e estrutura do site não limitam-se apenas aos ingressos no curso, quem quiser contribuir o [código fonte e conteúdo está aqui][fonte].
-
