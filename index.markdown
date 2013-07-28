@@ -7,6 +7,7 @@
 
 Este site reúne uma série de materiais desenvolvido por mim e meus amigos da  pós graduação de "Arteterapia, Educação e Saúde" na UNOESC em São Miguel do Oeste SC no ano de 2012-2013.
 
+
 ## Textos
 
 Os textos são livres e a maioria das propostas também. Sinta-se livre para contribuir.
@@ -35,6 +36,9 @@ Os textos são livres e a maioria das propostas também. Sinta-se livre para con
 Os desenhos do meu caderno de anotações. [Acesse aqui](/jonatas/desenhos.html)
 
 [fonte]: http://github.com/jonatas/arteterapia.ideia.me
+[eliege]: http://eliegejachini.blogspot.com.br/
+
+O desenho de background foi feito pela [Eliége Jachini][eliege]. Em breve colocaremos mais artes.
 
 Sinta-se livre para enviar seu feedback diretamente para mim em <jonatasdp@gmail.com>.
 

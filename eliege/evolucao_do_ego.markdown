@@ -41,7 +41,7 @@ Meyer nos leva a refletir, que sempre que estivermos Infelizmentelizes, devemos 
 Somos autores do nosso destino, e contribuímos muito, por mais que muitas vezes não pareça, para um mundo melhor, pois somos uma peça desse imenso quebra-cabeça. É nosso dever investigar, duvidar, comprometer-se e acrescentar. Viver de acordo com as imposições dos outros é muito repressivo, e impede de expressarmos livremente nossos sentimentos, que nos dão a espontaneidade para vivermos quem realmente somos. Não deixemos o ego governar nossa alma.
 
 
-![](/eliege/desenho08.png)
+![](/eliege/desenho06.png)
 
 # Referências Bibliográficas
 
