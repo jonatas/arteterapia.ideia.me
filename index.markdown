@@ -19,6 +19,7 @@ Os textos são livres e a maioria das propostas também. Sinta-se livre para con
 * [Pensamento sobre workaholismo](/jonatas/workaholismo.html "Pesquisa e estudo sobre área que pretende fazer o trabalho de conclusão de curso proposto pela professora Graciela Ormezzano") 
 * [Introdução a linguagem Bliss Symbols](/jonatas/intro_bliss.html "Aprenda um pouco da linguagem bliss foi minha sugestão de trabalho para a  matéria de Psicosomática e abordagem junguiana que inicialmente foi ministrado pela professora Hericka Zogbi Jorge Dias")
 * [Aguialinha](/jonatas/aguialinha.html "Reflexão crítica sobre o texto a águia e a galinha proposto pelo professor Carlos Alberto Veit na matéria de Psicosomática e abordagem junguiana" )
+* [Dinâmica de grupo](/jonatas/dinamica_de_grupo.html "Texto livre para professora Maria Goretti sobre vivências na dinâmica de grupo")
 
 ### por _Eliége Jachini_
 
